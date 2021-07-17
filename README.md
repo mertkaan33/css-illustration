@@ -1,2 +1,0 @@
-# css-illustration
-css-illustration
